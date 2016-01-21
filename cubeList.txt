@@ -1,0 +1,739 @@
+---------------WHITE
+-------------------Creature
+1CC :
+1 Dragon Hunter
+1 Elite Vanguard
+1 Isamaru, Houd of Konda
+1 Kytheon, Hero of Akros
+1 Mardu Woe-Reaper
+1 Mother of Runes
+1 Savannah Lions
+1 Soldier of the Pantheon
+1 Steppe Lynx
+1 Student of Warfare
+
+2CC :
+1 Accorder Paladin
+1 Cloistered Youth
+1 Imposing Sovereign
+1 Kor Skyfisher
+1 Lone Missionary
+1 Porcelain Legionnaire
+1 Relic Seeker
+1 Soltari Monk
+1 Soltari Priest
+1 Soltari Trooper
+1 Stoneforge Mystic
+1 Thalia, Guardian of Thraben
+1 Wall of Omens
+
+3CC :
+1 Blade Splicer
+1 Brimaz, King of Oreskos
+1 Exalted Angel
+1 Flickerwisp
+1 Hallowed Spiritkeeper
+1 Mirran Crusader
+1 Mirror Entity
+1 Monastery Mentor
+1 Soltari Champion
+
+4CC :
+1 Academy Rector
+1 Emeria Angel
+1 Hero of Bladehold
+1 Restoration Angel
+
+5CC :
+1 Baneslayer Angel
+1 Cloudgoat Ranger
+1 Reveillark
+
+6CC :
+1 Sun Titan
+
+7CC :
+1 Elesh Norn, Grand Cenobite
+
+9CC :
+1 Iona, Shield of Emeria
+
+--------------------Spells
+1CC :
+1 Enlightened Tutor
+1 Land Tax
+1 Mana Tithe
+1 Path to Exile
+1 Swords to Plowshares
+
+2CC :
+1 Balance
+1 Disenchant
+1 Honor of the Pure
+1 Journey to Nowhere
+1 Unexpectedly Absent
+
+3CC :
+1 Banishing Light
+1 Council’s Judgment
+1 Oblivion Ring
+1 Spear of Heliod
+1 Spectral Procession
+
+4CC :
+1 Ajani Goldmane
+1 Armegeddon
+1 Day of Judgment
+1 Elspeth, Knight-Errant
+1 Faith’s Fetters
+1 Gideon, Ally of Zendikar
+1 Moat
+1 Parralax Wave
+1 Ravages of War
+1 Wrath of God
+
+5CC :
+1 Elspeth Tirel
+1 Gideon Jura
+
+6CC :
+1 Catastrophe
+1 Elspeth, Sun’s Champion
+
+XCC :
+1 Quarantine Field
+1 Secure the Wastes
+
+---------------BLUE
+-------------------Creature
+1CC :
+1 Enclave Cryptologist
+
+2CC :
+1 Jace, Vryn's Prodigy
+1 Looter il-Kor
+1 Merfolk Looter
+1 Phantasmal Image
+1 Snapcaster Mage
+
+3CC :
+1 Deceiver Exarch
+1 Man-o'-War
+1 Pestermite
+1 Serendib
+1 Stratus Dancer
+1 Trinket Mage
+1 True-Name Nemesis
+1 Vendilion Clique
+
+4CC :
+1 Glen Elendra Archmage
+1 Sower of Temptation
+1 Venser, Shaper Savant
+1 Whirler Rogue
+
+5CC :
+1 Meloku the Clouded Mirror
+1 Mulldrifter
+
+6CC :
+1 Aetherling
+1 Consecrated Sphinx
+
+7CC :
+1 Palinchron
+
+9CC :
+1 Inkwell Leviathan
+
+--------------------Spells
+0CC :
+1 Daze
+1 Force of Will
+
+1CC :
+1 Ancestral Recall
+1 Ancestral Visions
+1 Brainstorm
+1 Force Spike
+1 Gitaxian Probe
+1 Mystical Tutor
+1 Ponder
+1 Preordain
+1 Serum Visions
+
+2CC :
+1 Arcane Denial
+1 Brain Freeze
+1 Counterspell
+1 Impulse
+1 Mana Drain
+1 Mana Leak
+1 Memory Lapse
+1 Miscalculation
+1 Remand
+1 Time Walk
+
+3CC :
+1 Compulsive Research
+1 Forbid
+1 Frantic Search
+1 Jace Beleren
+1 Show and Tell
+1 Thirst for Knowledge
+1 Timetwister
+1 Tinker
+1 Vedalken Shackles
+
+4CC :
+1 Control Magic
+1 Cryptic Command
+1 Deep Analysis
+1 Fact or Fiction
+1 Jace, the Mind Sculptor
+1 Opposition
+1 Turnabout
+
+5CC :
+1 Bribery
+1 Mystic Confluence
+1 Tezzeret, the Seeker
+1 Treachery
+
+6CC :
+1 Mind’s Desire
+1 Time Spiral
+1 Upheaval
+
+8CC :
+1 Dig Through Time
+
+XCC :
+1 Condescend
+1 Repeal
+
+LANDS :
+1 Tolarian Academy
+
+
+---------------RED
+-------------------Creature
+1CC :
+1 Firedrinker Satyr
+1 Goblin Guide
+1 Goblin Welder
+1 Greater Gargadon
+1 Grim Lavamancer
+1 Jackal Pup
+1 Monastery Swiftspear
+1 Reckless Waif
+1 Stromkirk Captain
+1 Zurgo Bellstriker
+
+2CC :
+1 Abbot of Keral Keep
+1 Eidolon of the Greal Revel
+1 Hellspark Elemental
+1 Keldon Marauders
+1 Lightning Mauler
+1 Plated Geopede
+1 Stormblood Berserker
+1 War-Name Aspirant
+1 Young Pyromancer
+
+3CC :
+1 Alesha, Who Smiles at Death
+1 Chandra’s Phoenix
+1 Feldon of the Third Path
+1 Fire Imp
+1 Goblin Rabblemaster
+1 Imperial Recruiter
+1 Magus of the Wheel
+1 Manic Vandal
+
+4CC :
+1 Avalanche Riders
+1 Flametongue Kavu
+1 Hellrider
+1 Hero of Oxid Ridge
+1 Pia and Kiran Nalaar
+
+5CC :
+1 Kiki-Jiki, Mirror Breaker
+1 Siege-Gang Commander
+1 Thundermaw Hellkite
+1 Zealous Conscript
+
+6CC :
+1 Inferno Titan
+
+--------------------Spells
+0CC :
+1 Fireblast
+
+1 Burst Lightning
+1 Chain Lightning
+1 Faithless Loothing
+1 Firebolt
+1 Firestorm
+1 Lightning Bolt
+
+2CC :
+1 Arc Lightning
+1 Incinerate
+1 Lightning Striker
+1 Magam Jet
+1 Searing Blaze
+1 Searing Spear
+1 Smash to Smithereens
+
+3CC :
+1 Arc Lightning
+1 Char
+1 Flames of the Firebrand
+1 Seething Song
+1 Sulfurix Vortex
+1 Wheel of Fortune
+
+4CC :
+1 Daretti, Scrap Savant
+1 Empty the Warrens
+1 Fiery Confluence
+1 Koth of the Hammer
+1 Purphoros, God of the Forge
+1 Sneak Attack
+1 Splinter Twin
+
+5CC :
+1 Sarkhan, the Dragonspeaker
+1 Through the Breach
+
+6CC :
+1 Burning of Xinye
+1 Wildfire
+
+XCC :
+1 Bonfire of the Damned
+1 Earthquake
+1 Rolling Earthquake
+1 Tempt with Vengeance
+
+---------------GREEN
+-------------------Creature
+1CC :
+1 Arbor Elf
+1 Birds of Paradise
+1 Elvish Mystic
+1 Experiment One
+1 Fyndhorn Elves
+1 Joraga Treespeaker
+1 Jungle Lion
+1 Llanowar Elves
+1 Noble Hierarch
+1 Scythe Leopard
+1 Wolfbitten Captive
+
+2CC :
+1 Fauna Shaman
+1 Lotus Cobra
+1 Mayor of Avabruck
+1 Rofellos, Llanowar Emissary
+1 Sakura-Tribe Elder
+1 Scavenging Ooze
+1 Sylvan Caryatid
+1 Tarmogoyf
+1 Wall of Blossoms
+1 Wall of Roots
+1 Wild Mongrel
+
+3CC :
+1 Courser of Kruphix
+1 Den Protector
+1 Eternal Witness
+1 Nissa, Vastwood Seer
+1 Reclamation Sage
+1 Uktabi Orangutan
+1 Yasova Dragonclaw
+1 Yavimaya Elder
+
+4CC :
+1 Master of the Wild Hunt
+1 Oracle of Mul Daya
+1 Polukranos, World Eater
+1 Thrun, the Last Troll
+1 Wickerbough Elder
+
+5CC :
+1 Acidic Slime
+1 Deranged Hermit
+1 Kalonian Hydra
+1 Thragtusk
+
+6CC :
+1 Primeval Titan
+
+7CC :
+1 Hornet Queen
+
+8CC :
+1 Craterhoof Behemoth
+1 Terastodon
+1 Woodfall Primus
+
+11CC :
+1 Worldspine Wurm
+
+--------------------Spells
+
+1CC :
+1 Rancor
+1 Sylvan Tutor
+1 Worldly Tutor
+
+2CC :
+1 Channel
+1 Evolutionary Leap
+1 Life from the Loam
+1 Oath of Druids
+1 Regrowth
+1 Survival of the Fittest
+1 Sylvan Library
+
+3CC :
+1 Cultivate
+1 Curse of Predation
+1 Heartbeat of Spring
+1 Kodama's Reach
+1 Song of the Dryads
+
+4CC :
+1 Collected Company
+1 Eureka
+1 Garruk Relentless
+1 Garruk Wildspeaker
+1 Natural Order
+
+5CC :
+1 Nissa, Worldwaker
+1 Plow Under
+
+9CC :
+1 Tooth and Nail
+
+XCC :
+1 Genesis Wave
+1 Green Sun’s Zenith
+
+LANDS :
+1 Gaea’s Cradle
+1 Treetop Village
+
+---------------MULTI-COLOR
+-------------------Azorius
+GOLD :
+1 Geist of Saint traft
+1 Detention Sphere
+1 Supreme Verdict
+1 Venser, the Sojourner
+
+LANDS :
+1 Celestial Colonnade
+1 Flooded Strand
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Tundra
+
+-------------------Dimir
+GOLD :
+1 Baleful Strix
+1 Psychatog
+1 Shadowmage Infiltrator
+1 Tezzeret, Agent of Bolas
+
+LANDS :
+1 Creeping Tar Pit
+1 Drowned Catacomb
+1 Polluted Delta
+1 Underground Sea
+1 Watery Grave
+
+--------------------Rakdos
+GOLD :
+1 Rakdos Cackler
+1 Dreadbore
+1 Grenzo, Dungeon Warden
+1 Kolaghan’s Command
+
+LANDS :
+1 Badlands
+1 Blackleave Cliffs
+1 Blood Crypt
+1 Bloodstained Mire
+1 Lavaclaw Reaches
+
+--------------------Grull
+GOLD :
+1 Tattermunge Maniac
+1 Bloodbraid Elf
+1 Sarkhan Vol
+1 Dragonlord Atarka
+
+LANDS :
+Copperline Gorge
+1 Raging Ravine
+1 Stomping Ground
+1 Taiga
+1 Wooded Foothills
+
+--------------------Selesnya
+GOLD :
+1 Dryad Militant
+1 Qasali Pridemage
+1 Kitchen Finks
+1 Mirari’s Wake
+
+LANDS :
+1 Horizon Canopy
+1 Savannah
+1 Stirring Wildwood
+1 Temple Garden
+1 Windswept Heath
+
+--------------------Orzhov
+GOLD :
+1 Lingering Souls
+1 Vindicate
+1 Sorin, Lord of Innistrad
+1 Sorin, Solemn Visitor
+
+LANDS
+1 Caves of Koilos
+1 Godless Shrine
+1 Marsh Flats
+1 Scrubland
+1 Shambling Vent
+
+--------------------Golgari
+GOLD :
+1 Lotleth Troll
+1 Maelstrom Pulse
+1 Pernicious Deed
+1 Meren of Clan Nel Toth
+
+LANDS :
+1 Bayou
+1 Llanowar Wastes
+1 Overgrown Tomb
+1 Verdant Catacombs
+1 Woodland Cemetery
+
+--------------------Simic
+GOLD :
+1 Kiora’s Follower
+1 Edric, Spymaster of Trest
+1 Trygon Predator
+1 Kiora, Master of the Depths
+
+LANDS :
+1 Breeding Pool
+1 Lumbering Falls
+1 Misty Rainforest
+1 Tropical Island
+1 Yavimaya Coast
+
+--------------------Izzet
+GOLD :
+1 Fire // Ice
+1 Izzet Charm
+1 Dack Fayden
+1 Ral Zarek
+
+LANDS :
+1 Scalding Tarn
+1 Shivan Reef
+1 Steam Vents
+1 Sulfur Falls
+1 Volcanic Island
+
+--------------------Boros
+GOLD :
+1 Figure of Destiny
+1 Soulfire Grand Master
+1 Lightning Helix
+1 Ajani Vengeant
+
+LANDS :
+1 Arid Mesa
+1 Battlefield Forge
+1 Clifftop Rereat
+1 Plateau
+1 Sacred Foundry
+
+--------------------Rainbow
+1CC :
+1 Warden of the First Tree
+1 Wild Nacatl
+
+4CC :
+1 Siege Rhino
+
+8CC :
+1 Sphinx of the Steel Wind
+
+10CC :
+1 Progenitus
+
+---------------COLORLESS
+-------------------Creature
+2CC :
+1 Phyrexian Revoker
+1 Spellskite
+
+3CC :
+1 Metalworker
+1 Phyrexian Metamorph
+
+4CC :
+1 Lodestone Golem
+1 Masticore
+1 Solemn Simulacrum
+
+6CC :
+1 Wurmcoil Engine
+
+7CC :
+1 Myr Battlesphere
+
+8CC :
+1 Sundering Titan
+
+10CC :
+1 Kozilek, Butcher of Truth
+
+11CC :
+1 Ulamog, the Ceaseless Hunger
+
+12CC :
+1 Blightsteel Colossus
+
+15CC :
+1 Emrakul, the Aeons Torn
+
+-------------------Mana
+0CC :
+1 Black Lotus
+1 Chrome Mox
+1 Everflowing Chalice
+1 Lotus Petal
+1 Mana Crypt
+1 Mox Diamond
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+
+1CC :
+1 Mana Vault
+1 Sol Ring
+
+2CC :
+1 Azorius Signet
+1 Dimir Signet
+1 Grim Monolith
+1 Izzet Signet
+1 Mind Stone
+1 Simic Signet
+
+3CC :
+1 Basalt Monolith
+1 Coalition Relic
+1 Worn Powerstone
+
+4CC :
+1 Hedron Archive
+1 Thran Dynamo
+
+5CC :
+1 Gilded Lotus
+
+-------------------Utility
+1CC :
+1 Cursed Scroll
+1 Pithing Needle
+1 Sensei’s Divining Top
+1 Voltaic Key
+
+2CC :
+1 Ratchet Bomb
+1 Scroll Rack
+1 Time Vault
+1 Winter Orb
+
+3CC :
+1 Crucible of Worlds
+1 Tangle Wire
+
+4CC :
+1 Erratic Portal
+1 Somekstack
+
+5CC :
+1 Memory Jar
+
+7CC :
+1 Karn Liberated
+
+8CC :
+1 Ugin, the Spirit Dragon
+
+XCC :
+1 Engineered Explosives
+
+LANDS :
+1 Bazaar of Baghdad
+1 Dark Depths
+1 Maze of Ith
+
+-------------------Equipment
+1CC :
+1 Bonesplitter
+1 Skullclamp
+
+2CC :
+1 Lightning Greaves
+1 Umezawa’s Jitte
+
+3CC :
+1 Grafted Wargear
+1 Sword of Body and Mind
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Sword of War and Peace
+
+5CC :
+1 Batterskull
+
+-------------------Lands
+MULTICOLOR :
+1 City of Brass
+1 Gemstone Mine
+1 Grand Coliseum
+1 Mana Confluence
+1 Reflecting Pool
+1 Undiscovered Paradise
+
+BASIC FETCH :
+1 Evolving Wilds
+1 Terramorphic Expanse
+
+UTILITY :
+1 Ancient Tomb
+1 Library of Alexandria
+1 Mishra’s Factory
+1 Mutavault
+1 Rishadan Port
+1 Strip Mine
+1 Thespian's Stage
+1 Wasteland
