@@ -42,6 +42,22 @@ function getCard(typeFolder, path){
     return './set/'+ path + '/' + cardName
 }
 
+function copyFileSync(srcFile, destFile) {
+    var BUF_LENGTH = 64*1024;
+    var buff = new Buffer(BUF_LENGTH);
+    var fdr = fs.openSync(srcFile, 'r');
+    var fdw = fs.openSync(destFile, 'w');
+    var bytesRead = 1
+    var pos = 0
+    while (bytesRead > 0) {
+        bytesRead = fs.readSync(fdr, buff, 0, BUF_LENGTH, pos);
+        fs.writeSync(fdw,buff,0,bytesRead);
+        pos += bytesRead;
+    }
+    fs.closeSync(fdr)
+    fs.closeSync(fdw)
+}
+
 var rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
@@ -100,17 +116,11 @@ function startComputingBoosters(players, format) {
                     foilModif = true;
                 }
                 var cardPath = getCard(cardObj.cards, cardObj.path);
-                var readStream = fs.createReadStream(cardPath);
                 var rsPath = currentBooster + "/" + cardObj.rarety + '-' + randomstring.generate(13) + '.png';
                 if (foilModif) {
                     rsPath = currentBooster + "/" + '4-' + randomstring.generate(13) + '.png';
                 }
-                //bug ici car non synchrone
-                readStream.pipe(fs.createWriteStream(rsPath));
-                readStream.on('error', function(err) {
-                    console.log(cardIndex, cardName, path);
-                    console.log(err);
-                });
+                copyFileSync(cardPath, rsPath);
             }
             var cardList = fs.readdirSync(currentBooster);
             console.log(cardList);
